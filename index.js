@@ -6,7 +6,7 @@ const facts = [
   "He hated the sound of his own voice"
 ];
 function solfFacts(){
-  for(var a = 0 ;a<fact.length;a++）{
+  for(var a = 0 ;a<fact.length;a++){
    console.log(facts[a]]);
   }
 }

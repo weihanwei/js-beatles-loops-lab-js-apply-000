@@ -6,4 +6,6 @@ const facts = [
   "He hated the sound of his own voice"
 ];
 
-for（int a = 0 ;a<fact.lenght;）{}
+for（int a = 0 ;a<fact.length;a++）{
+  
+}

@@ -7,5 +7,5 @@ const facts = [
 ];
 
 for（int a = 0 ;a<fact.length;a++）{
-  
+   console.log(facts[a]]);
 }

@@ -7,6 +7,6 @@ const facts = [
 ];
 function solfFacts(){
   for(var a = 0 ;a<fact.length;a++){
-   console.log(facts[a]]);
+   console.log(facts[a]);
   }
 }
